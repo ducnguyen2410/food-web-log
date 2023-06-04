@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ducnguyen2410/food-web-log.git/static/css/main.073c9b0a.css",
+    "main.js": "/ducnguyen2410/food-web-log.git/static/js/main.46c7a18a.js",
+    "static/js/787.6a03646f.chunk.js": "/ducnguyen2410/food-web-log.git/static/js/787.6a03646f.chunk.js",
+    "static/media/logo.svg": "/ducnguyen2410/food-web-log.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ducnguyen2410/food-web-log.git/index.html",
+    "main.073c9b0a.css.map": "/ducnguyen2410/food-web-log.git/static/css/main.073c9b0a.css.map",
+    "main.46c7a18a.js.map": "/ducnguyen2410/food-web-log.git/static/js/main.46c7a18a.js.map",
+    "787.6a03646f.chunk.js.map": "/ducnguyen2410/food-web-log.git/static/js/787.6a03646f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.46c7a18a.js"
+  ]
+}
